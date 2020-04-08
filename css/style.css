@@ -1,0 +1,115 @@
+*
+{
+	margin:0 ;
+  padding: 0;
+	
+}
+
+.wrapper {
+
+width:95%;
+overflow:hidden;
+background: #fff;
+margin: 0 auto;
+margin-top: 80px;
+/*border:1px solid red;*/
+}
+
+.signup-content
+{
+margin:0 100px;
+}
+
+
+
+.signup-form {
+  width:45%;
+	overflow: hidden;
+	float:left;
+	/*border:1px solid black;*/
+  box-shadow: 4px 15px 8px 7px #888888;
+  padding: 0px 20px;
+}
+	
+
+.form-title {
+ font-family:'sans-serif';
+  font-size: 30px;
+  margin-bottom: 50px;
+  color:#1873CB;
+  text-align: center;
+
+}
+
+
+
+
+
+label
+{
+  font-weight: 900;
+    font-size: 20px;
+    color:#1873CB;
+    margin-bottom:5px;
+}
+
+  input[type=text],[type=email],[type=number],[type=password]    {
+ width:90%;
+ height:20px;
+  display: block;
+  padding:10px 0px;
+ }
+
+
+
+
+input[type=submit]
+{
+
+font-family:sans-serif;
+font-size:18px;
+font-weight:400 ;
+color:white;
+width: 200px;
+height: 40px;
+background-color:#3C7CC8;
+border: none;
+margin:10px 0px 0px 520px ; 
+ border-radius: 0.5px;
+
+}
+
+
+
+
+.fas.fa-user-graduate {
+}
+
+.fas.fa-envelope {
+}
+
+.fas.fa-mobile-alt {
+}
+
+.fas.fa-unlock-alt {
+}
+
+.label-agree-term {
+}
+
+.term-service {
+}
+
+.form-group.form-button {
+}
+
+.signup-image {
+	width:40%;
+	float:right;
+  overflow: hidden;
+	
+}
+
+.s-image img {
+	width:90%;
+}
